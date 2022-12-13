@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-10-26T09:19:48+07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">MarchvaGO</title><subtitle>Selamat Datang, Ini adalah website pertama saya jagan lupa follow sosmed nya yaa :)</subtitle><entry><title type="html">Random Project</title><link href="http://localhost:4000/2022/10/25/Random-Project.html" rel="alternate" type="text/html" title="Random Project" /><published>2022-10-25T00:00:00+07:00</published><updated>2022-10-25T00:00:00+07:00</updated><id>http://localhost:4000/2022/10/25/Random-Project</id><content type="html" xml:base="http://localhost:4000/2022/10/25/Random-Project.html"><![CDATA[<div class="header">
+  <h2>Blog Marchva</h2>
+</div>
+
+<div class="row">
+  <div class="leftcolumn">
+    <div class="card">
+      <h2>UBUNTU</h2>
+      <h5>Penjelasan Tentang Ubuntu, Oct 25, 2022</h5>
+      <div class="fakeimg" style="height: 300px;"><img src="https://w7.pngwing.com/pngs/193/622/png-transparent-logo-ubuntu-friends-help-ubuntu-extension-logo-love-free-logo-design-template-orange-thumbnail.png" alt="ubuntu" /></div>
+      <p>Ubuntu adalah sebuah sistem operasi berbasis Linux yang kaya fitur. Sistem operasi Ubuntu bersifat open source sehingga bisa digunakan secara gratis.</p>
+    </div>
+    <div class="card">
+      <h2>MANJARO</h2>
+      <h5>Penjelasan Tentang Manjaro, Oct 25, 2022</h5>
+      <div class="fakeimg" style="height: 250px;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Manjaro-logo.svg/384px-Manjaro-logo.svg.png?20210414143234 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Manjaro-logo.svg/512px-Manjaro-logo.svg.png?20210414143234" alt="manjaro" height="230px" /></div>
+      <p>Manjaro adalah salah satu distribusi linux yang dikembangkan secara independen berdasarkan sistem operasi Arch, Arch sendiri dikenal sebagai distribusi yang cepat ringan dan juga handal. hanya saja Arch ini lebih ditunjukan kepada pengguna yang sudah berpengalaman dalam mengoperasikan sistem operasi linux.</p>
+    </div>
+  </div>
+  <div class="rightcolumn">
+    <div class="card">
+      <h2>Tentang Saya</h2>
+      <div class="fakeimg" style="height:100px;">&lt;img class="img" src="https://www.dropbox.com/pri/get/image/%E1%96%97%20%E0%B8%B1mai%20sakurajima.png?_subject_uid=4618389344&amp;w=AAAqijDbicGlhTTQkTgIpbufECShi_w2qbqU-s4rdid81g" alt="error CUY" height=&gt;</div>
+      <p>Seseorang yang menyukai bulan dan kamu:)</p>
+     </div>
+    <div class="card">
+      <h3>Follow Me</h3>
+      <p><a href="https://twitter.com/MarkensteiN_" class="fa fa-twitter">MarkensteiN_</a></p>
+      <p><a href="https://instagram.com/asede_marr" class="fa fa-instagram">asede_marr</a></p> 
+    </div>
+  </div>
+</div>
+
+<div class="footer">
+  <h2>SEKIANNN CUY, Coming soon..</h2>
+</div>
+
+<!---CSS--->
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
+
+<style>
+  * {
+box-sizing: border-box;
+}
+
+.img {
+max-width: 30%;
+height: auto;
+text-align: center;
+}
+
+body {
+font-family: 'Times New Roman', serif;
+padding: 20px;
+background: #d18888;
+}
+
+/* Header/Blog Title */
+.header {
+padding: 30px;
+font-size: 30px;
+text-align: center;
+background: rgb(221, 88, 88);
+border-style: outset;
+}
+
+
+/* Create two unequal columns that floats next to each other */
+/* Left column */
+.leftcolumn {
+float: left;
+width: 70%;
+}
+
+/* Right column */
+.rightcolumn {
+float: left;
+width: 25%;
+padding-left: 20px;
+}
+
+/* Fake image */
+.fakeimg {
+  background-color: rgb(255, 254, 254);
+  max-width: 100%;
+  height: auto;
+  text-align: center;
+}
+
+/* Add a card effect for articles */
+.card {
+background-color: rgb(255, 255, 255);
+padding: 20px;
+margin-top: 20px;
+}
+
+/* Clear floats after the columns */
+.row:after {
+content: "";
+display: table;
+clear: both;
+}
+
+/* Footer */
+.footer {
+padding: 20px;
+text-align: center;
+margin-top: 20px;
+background: rgb(221, 88, 88);
+border-style: outset;
+}
+
+/* Responsive layout - when the screen is less than 800px wide, make the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 800px) {
+.leftcolumn, .rightcolumn {
+  width: 100%;
+  padding: 0;
+}
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
+</style>]]></content><author><name></name></author><summary type="html"><![CDATA[Blog Marchva]]></summary></entry><entry><title type="html">Cara Menginstall Driver Mp C2003</title><link href="http://localhost:4000/2022/10/20/Cara-menginstall-Driver-MP-C2003.html" rel="alternate" type="text/html" title="Cara Menginstall Driver Mp C2003" /><published>2022-10-20T00:00:00+07:00</published><updated>2022-10-20T00:00:00+07:00</updated><id>http://localhost:4000/2022/10/20/Cara-menginstall-Driver-MP-C2003</id><content type="html" xml:base="http://localhost:4000/2022/10/20/Cara-menginstall-Driver-MP-C2003.html"><![CDATA[<div>
+   <body>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+      <h2>Cara menginstall Driver Printer MP C2003</h2>
+
+   <h3>Tipe printer yang digunakan:</h3>
+      <ul>
+         <li>Jenis printer       : MP C2003</li>
+         <li>Warm up time        : 19 detik</li>
+         <li>Print/copy pertama  : full color: 7,6 detik ; B/W: 5,4 detik </li>
+         <li>kecepatan kontinu   : full color: 7,6 detik ; B/W: 20PPM</li>
+         <li>Memori: standard    : 1,5 GB MAX</li>
+         <li>dimensi: (WxDxH)    : 587x685x788m</li>
+      </ul>
+
+<h3>Cara menginstall driver:</h3>
+   <ol> 
+    <li>Langkah pertama bukalah terminal yang ada di linux ubuntu</li>
+    <li>Ketik command <code>sudo apt install mc</code></li>
+    <img class="image" src="https://www.dropbox.com/pri/get/image/img1.png?_subject_uid=4618389344&amp;w=AADp9V-fHSj4xB33wwK_XDGSNjoKJl3tzSuLg9OV9Cw2rw" />
+    <li>Setelah itu ketik command <code>sudo apt search ricoh</code></li>
+    <img class="image" src="https://previews.dropbox.com/p/thumb/ABtDKmq4KbAd0PU9EuE3Oi96Q8RgO9mvSQzS7-9emAtow-Kj-HZkGzWaD9Ef054Deldx53qXRBc8-NbZqpRBLL5pNqUIwopf57HCAu5AGOTbc0ZVZLVwm3N85TX2d-M09p_BBS06DsFNy0M2amq-RecVKNn_g95E6iBuphK38MfG8ioGrv5ullNU_73pXRcCYcyISP3uOA5OvQGhGBMxqlvQmdCffIAqxhKVyiH5CsdhAV1yEe4LM2JNF6JTl-6njh4GYYYVbiL5J6bxdVSLEO2z4cmG9JAqAlayB7S2RpNKuQMQCkrDSqlGR02lBODJPhZB0w1W12FxroLnO9LRAykOdDNA2Tjr-4NllIembjwcy9YHS0q_R_bWLXR3x-nlBWOvf_Ueuj8rWrbdq4gTeY-f/p.png" />
+    <li>Lalu ketik command <code>sudo apt install printer-driver-sag-gdi</code></li>
+    <img class="image" src="https://previews.dropbox.com/p/thumb/ABuiy0-UqSmNNti_P8vgWhU70Wz7Hhzmsm5Dps6Si1hfZzFlG7lLj574qZ0ONft0IbmtGIJI5TQB1alXAVRb7ich2SFxizjvPnLBCFFDAp4fqqss4eK8AdRFLGjIirKEGjEgbpe4ka18ojS7tODvxEOrOmu362bhAXLQcjCGQvYcRv5Co9p_XSoK3WjasrJ9QE3R5G7NPdGs7bx4P2OjHF9EOljcspOWCKH7RwaXrHU2nZS6Wt9poot868frqjEdR4Fo9wWDarHXFU5A8NtRz8llAem1NztPcLBIZGsQ8kKNmlbHUSLGJFM_32XBC37BGLO0gx7AYfmJcOgFu2dWSR9OGW52AswMiPtGdwYwpU9U6SiBc31J50lH_m3MViTo5CcXEyXsjGF08nUv0KAz54tr/p.png" />
+    <li>Setelah itu ketik command <code>sudo apt install cups</code></li>
+    <img class="image" src="https://previews.dropbox.com/p/thumb/ABuPY5OiXoyODf1NNO7g-QY84xXHazAttPpaFMP2jtvQcxHEIYNsOOz2jS3RQ596aYrzrDq26Aqu-HMNB2XIM_4NLh3wVpYFQBLyPcq4WW5KMZF5YAvVyUL6fybRgmBf3TBuNIyTfWmAZSRs16KGQarP9iQW4dHV3rZrkhnhsv56iPHXNB_ZXpxYQB3ZuziEgUGKJ3PD_vbgtJjGdFfhgM7oCBVXNEWTfy2rAL5ynrhkgUNrgejkxCGHiDRM_qkdefRzmCTdJ9NpRd7_oOfDZv-4UV22mmuNzLJO7iPaoeM1IbbsbNABrycH7FKHWwOL16MnLSCxHxdq1xyoZojLHNMLwwJLhGRtF7slOBldHI__EbC_dtG82jo4KKgh2Ssxk74/p.png" />
+    <li>Lalu ketik <code>sudo systemctl status cups</code></li>
+    <img class="image" src="https://previews.dropbox.com/p/thumb/ABuZXh8Xy4KO98XHcYijgY4SOWtZKExYYlhvFhJMb_BzUCAwtE0G6ZjDh5FUdVtE5w58Xsa3QE0VgotLCZ9WgC2dmfPseT7sKud3GlwoEszIyhn2kY13ZhjQvn4oTQoGs6HR1SmpMo9GJe4EKGrkI8PYbmjvxl2jEsLmW2putnG9bgzUWz3xgAohFjUWE1aiy9GZLsjMfK98XlhBmBwIrxYBuPBmyiAje7KIrYs2M91YYmpivmh6rnCSsUR9IXgZLbgHcv4G7XTFrNJctwh6zpvfecEtzvWZxdRr1xKrsympC7_gEItz6_HjJoH18cij9KQeUUagn5ZZm7ezR2mExUi05j6LQHQwwq3GiWrW-4E4Rh9OA3OpSJ9TcDkZr3mYdy0/p.png" />
+    <li>Jika hasil command sudah menandakan active/running maka lantut ketahap berikutnya</li> 
+    <li>Tahap berikutnya buka web di search engine kalian dengan keyword “localhost:631”</li>
+    <img class="image" src="https://previews.dropbox.com/p/thumb/ABu6Dn9rVbnEMTKZqEr_cGRDOFoBUADigIKpL1gn2ordwsJez2XKDl3UDjiQAcYMnTJZXvivQEYyHjD3PmhgoULtBT9Nb4qEb7oQXiviYG8k7U-Jq36O5TqbEIyFN_yPK4_VIADpTEFYYnqaaihJenYVgJnDrV38ZHLoevoQoGkBCGx4rfjDiorff9QDS69tPba1Oy1ffNbjTjKAOCuOluJ-2O9DcdMZkrHZyKMQv7Am7gtMmGFTmGMiuP4KH0FV7D9QV9u0367Tm98Bqy6-5YPun-de0JSvbMBmb6nghYFJoNNkX5i55odFIvrp55yCoNCq7LkBHvt2ybzDJRsDHtG2uPoPmL378gd5RPMsnFCfpeHHxmDzg9yVnhU8mBIqZjU/p.png" />
+    <li>Lalu klik pada opsi printers yaitu “add printer”</li>
+    <li>Jika sudah cari nama printer yang akan kalian sambungkan di area "discovered network printer"</li>
+    <img class="image" src="https://previews.dropbox.com/p/thumb/ABvar_0mVw3by0p1REXFC2cavdAoYcpRUECO_8GN6afDLddYHGmW_bpBdMzZx1UpUYS5GOSPmL1njdXTXw2tfq2mHUv2hjtYQQhHKUoE21mg4A148BqcicFGjCt4bC6sjD9ruHcF6ogJUc8EhMCgmW5hgEPSt1gTBbAe-2KaWmQE9bY96estBAIa-Rirgt47IgPbr0sYW7Nto_t8u056hYr7tbvrBChwywWEP0HJ4Gzua4PkJvsTWcoO2c-zNLT8l78SStaAyvREx5i4cGIF-cDtrPYd69wF2KmVfSPM66U_ckXcVFK7uVYYjxaqlShHCA3SaXvPjqnuJPJ9-31r11ULoTaTuCH8kHrjlgbOtV2yJcVMuEKl88jDYP12hrkZYg8XcLPcp8-CDgCZFd6zWxWs/p.png" />
+    <li>Pilih model printer yang akan kalian samungkan ke komputer anda</li>
+    <img class="image" src="https://previews.dropbox.com/p/thumb/ABt-QGpGW3LOtkHBpPwYryMlmPdITwQcT69FahZfWa5IGXcEXVkG-rH6JoUzJqYssNPf-MZy3TJ1xMSSO-pGX-15jhaqATkgs0dJFf-d6Dl1kLRNP5hxvyeWPru8NtpxIwqE9FxkzbWwqR9hvQ2I0owAfdbCeEA5GAidLubupdgp0VlKaWq1bnQPdFlegPXiRByo4Lav_TEITk-2J1VCCLgcRSpfCC2GtwxYZKwckoTZKeNb5UstVcYoizV7hkuwNZNDCiUzT-CL92idTZRUAUEPfx8bNYL7neoGnfopasxQ3l85zXYjlsqMrwo4V8JT1ddIRMR6qmQL5ZTtoxy9lqeoa2pKnXVaAmXBAueHRX8Lah04gZhzYmIqhQiFa4WZ6vXbL9CRGXbHAgs-SetzhY3k/p.png" />
+    <li>Lalu klik add printer</li>
+    <img class="image" src="https://previews.dropbox.com/p/thumb/ABsT4oSyl9XaR1DgQGhrx5srvAw1WabiHXxz4YBzCsWZsjJL8NlU6Sd6GnbSognwY-KYvEKSjv8jECxQH9InIp1DIJcXJFH_NT_JxO_n99nGsukHEEN7Wq4WW7vjn1YsPheo942S-oCQSlJ7DijGlKDCYYoUk8TYoEJr3cBGqOv58mtXErxbLsR0cv0inNvFEMJtREZ92hz0YO8wKwXxrl0sDLYuy10XpmyMX4-PgJolbBAwLoqrwhs2WCX3JbgeipP247bPrZ2rLRW6xqOwQlREvooot5iGdRv1bb0xOJlwP1TbVzRSuzTwnGZzgK__a1AzF-80cu-uPKOn3z3HQL5YTp7eI6jEKm8LsK_2aMTtiEO2g29ML049wEcCZSlnYs4/p.png" />
+    <li>Printer siap digunakan</li>
+   </ol>
+
+
+&lt;/div&gt;
+   </body>
+
+   <!---ini style nya--->
+
+   <style>
+   h2{
+      text-align: center;
+   }   
+
+   body{
+      font-family: Georgia, 'Times New Roman', Times, serif;
+   }
+
+   div{
+      border: 1px solid black;
+      padding-top: 50px;
+      padding-right: 30px;
+      padding-bottom: 50px;
+      padding-left: 80px;
+      background: linear-gradient(to left, #33ccff 0%, #ff99cc 100%)
+   }
+
+   .image{
+   max-width: 40%;
+   height: auto;
+   }
+   </style>
+
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[Cara menginstall Driver Printer MP C2003]]></summary></entry></feed>

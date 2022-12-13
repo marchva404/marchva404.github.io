@@ -1,0 +1,136 @@
+<div class="header">
+  <h2>Blog Marchva</h2>
+</div>
+
+<div class="row">
+  <div class="leftcolumn">
+    <div class="card">
+      <h2>UBUNTU</h2>
+      <h5>Penjelasan Tentang Ubuntu, Oct 25, 2022</h5>
+      <div class="fakeimg" style="height: 300px;"><img src="https://w7.pngwing.com/pngs/193/622/png-transparent-logo-ubuntu-friends-help-ubuntu-extension-logo-love-free-logo-design-template-orange-thumbnail.png" alt="ubuntu"></div>
+      <p>Ubuntu adalah sebuah sistem operasi berbasis Linux yang kaya fitur. Sistem operasi Ubuntu bersifat open source sehingga bisa digunakan secara gratis.</p>
+    </div>
+    <div class="card">
+      <h2>MANJARO</h2>
+      <h5>Penjelasan Tentang Manjaro, Oct 25, 2022</h5>
+      <div class="fakeimg" style="height: 250px;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Manjaro-logo.svg/384px-Manjaro-logo.svg.png?20210414143234 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Manjaro-logo.svg/512px-Manjaro-logo.svg.png?20210414143234" alt="manjaro" height="230px"></div>
+      <p>Manjaro adalah salah satu distribusi linux yang dikembangkan secara independen berdasarkan sistem operasi Arch, Arch sendiri dikenal sebagai distribusi yang cepat ringan dan juga handal. hanya saja Arch ini lebih ditunjukan kepada pengguna yang sudah berpengalaman dalam mengoperasikan sistem operasi linux.</p>
+    </div>
+  </div>
+  <div class="rightcolumn">
+    <div class="card">
+      <h2>Tentang Saya</h2>
+      <div class="fakeimg" style="height:100px;"><img class="img" src="/image/mai.jpeg" alt="error CUY"></div>
+      <p>Seseorang yang menyukai bulan dan kamu:)</p>
+     </div>
+    <div class="card">
+      <h3>Follow Me</h3>
+      <p><a href="https://twitter.com/MarkensteiN_" class="fa fa-twitter">MarkensteiN_</a></p>
+      <p><a href="https://instagram.com/asede_marr" class="fa fa-instagram">asede_marr</a></p> 
+    </div>
+  </div>
+</div>
+
+<div class="footer">
+  <h2>SEKIANNN CUY, Coming soon..</h2>
+</div>
+
+
+
+
+
+<!---CSS--->
+
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+<style>
+  * {
+box-sizing: border-box;
+}
+
+.img {
+max-width: 30%;
+height: auto;
+text-align: center;
+}
+
+body {
+font-family: 'Times New Roman', serif;
+padding: 20px;
+background: #d18888;
+}
+
+/* Header/Blog Title */
+.header {
+padding: 30px;
+font-size: 30px;
+text-align: center;
+background: rgb(221, 88, 88);
+border-style: outset;
+}
+
+
+/* Create two unequal columns that floats next to each other */
+/* Left column */
+.leftcolumn {
+float: left;
+width: 70%;
+}
+
+/* Right column */
+.rightcolumn {
+float: left;
+width: 25%;
+padding-left: 20px;
+}
+
+/* Fake image */
+.fakeimg {
+  background-color: rgb(255, 254, 254);
+  max-width: 100%;
+  height: auto;
+  text-align: center;
+}
+
+/* Add a card effect for articles */
+.card {
+background-color: rgb(255, 255, 255);
+padding: 20px;
+margin-top: 20px;
+}
+
+/* Clear floats after the columns */
+.row:after {
+content: "";
+display: table;
+clear: both;
+}
+
+/* Footer */
+.footer {
+padding: 20px;
+text-align: center;
+margin-top: 20px;
+background: rgb(221, 88, 88);
+border-style: outset;
+}
+
+/* Responsive layout - when the screen is less than 800px wide, make the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 800px) {
+.leftcolumn, .rightcolumn {
+  width: 100%;
+  padding: 0;
+}
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
+</style>
